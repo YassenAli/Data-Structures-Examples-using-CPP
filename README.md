@@ -23,8 +23,7 @@ Welcome to the Data Structures Examples using C++ repository! This repository co
 ## How to Use This Repository
 
 1. **Navigate to the folder**: Browse through the folders to find the data structure or topic you are interested in.
-2. **View the implementation**: Open the `implementation.cpp` or `examples.cpp` file to see the C++ code.
-3. **Read the details**: Each folder contains a `README.md` file with detailed information about the implementation or examples.
+2. **View the implementation**: Open the `.cpp` file to see the C++ code.
 
 ## Contributing
 
